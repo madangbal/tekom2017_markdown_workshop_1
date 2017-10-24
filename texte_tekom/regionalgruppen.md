@@ -1,9 +1,9 @@
-Termine aus den Regionalgruppen
-Regionalgruppen
+# Termine aus den Regionalgruppen
+## Regionalgruppen
 Die tekom hat bundesweit 16 Regionalgruppen (RG). Jede RG betreut ein bestimmtes Einzugsgebiet und bietet tekom-Mitgliedern in regelmäßigen Abständen Vorträge und Workshops an. Welche Regionalgruppe für welches Einzugsgebiet verantwortlich ist, steht in der Liste unterhalb der Karte. Beim Klick auf die jeweilige RG öffnet sich ein separates Fenster. Darin stehen die Adressen der Regionalgruppenleiter, zukünftige Veranstaltungstermine sowie die Berichte über vergangene Treffen. Teilweise finden sich dort auch Vortragsunterlagen und begleitende Materialien. Verantwortlich für die Daten ist die jeweilige RG.
 Eingeladen zu den RG-Treffen sind aber nicht nur Mitglieder, auch Interessenten ohne Mitgliedschaft sind jederzeit willkommen. Einzige Voraussetzung ist, dass sie sich frühzeitig bei der RG-Leitung anmelden. Am einfachsten geht dies per E-Mail.
-RG Leipzig
-11.11.2017 - 11.11.2017
+## RG Leipzig
+**11.11.2017 - 11.11.2017**
 Die Schritt-für-Schritt-Anleitung ist tot...
 Vollständiger Workshoptitel: Die Schritt-für-Schritt-Anleitung ist tot, es lebe die Schritt-für-Schritt-Anleitung und Alternative!
 Technische Redakteure lieben Schritt-für-Schritt-Anleitungen. Sie sind leicht zu schreiben und häufig die beste Möglichkeit konkret zur Handlung anzuleiten.
@@ -25,7 +25,7 @@ Bitte bringen Sie zum Workshop für praktische Übungen einen Laptop und/oder St
 RG Bodenseeraum
 19.10.2017
 Übersetzungsgerecht schreiben – damit das Übersetzen nicht zum Ratespiel wird
-Jeder kennt sie und vermutlich jeder hat sich schon darüber lustig gemacht: Bedienungsanleitungen, die so grottenschlecht übersetzt sind, dass man nur den Kopf darüber schütteln kann...
+Jeder kennt sie und vermutlich jeder hat sich schon darüber lustig gemacht: Bedienungsanleitungen, die so grottenschlecht übersetzt sind, dass man nur den Kopf darüber schütteln kann.
 Aber wissen wir, was aus unseren Handbüchern wird, wenn sie andere Sprachen übersetzt werden? Und ist der Übersetzer vielleicht gar nicht der allein Schuldige? Sind unsere Texte wirklich so geschrieben, dass der Übersetzer weiß, was wir meinen?
 Ein Übersetzer kann seine Arbeit nur dann vernünftig machen, wenn er von uns übersetzungsgerechte Texte bekommt.
 Was das bedeutet, sehen wir uns unter verschiedenen Gesichtspunkten an:
