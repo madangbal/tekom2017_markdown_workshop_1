@@ -25,7 +25,7 @@ Bitte bringen Sie zum Workshop für praktische Übungen einen Laptop und/oder St
 RG Bodenseeraum
 19.10.2017
 Übersetzungsgerecht schreiben – damit das Übersetzen nicht zum Ratespiel wird
-Jeder kennt sie und vermutlich jeder hat sich schon darüber lustig gemacht: Bedienungsanleitungen, die so grottenschlecht übersetzt sind, dass man nur den Kopf darüber schütteln kann.
+Jeder kennt sie und vermutlich jeder hat sich schon darüber lustig gemacht: Bedienungsanleitungen, die so grottenschlecht übersetzt sind, dass man nur den Kopf darüber schütteln kann...
 Aber wissen wir, was aus unseren Handbüchern wird, wenn sie andere Sprachen übersetzt werden? Und ist der Übersetzer vielleicht gar nicht der allein Schuldige? Sind unsere Texte wirklich so geschrieben, dass der Übersetzer weiß, was wir meinen?
 Ein Übersetzer kann seine Arbeit nur dann vernünftig machen, wenn er von uns übersetzungsgerechte Texte bekommt.
 Was das bedeutet, sehen wir uns unter verschiedenen Gesichtspunkten an:
